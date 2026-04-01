@@ -1,0 +1,30 @@
+.content {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #665c54;
+    color: #ebdbb2;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: #fbf1c7;
+}
+
+a {
+    color: #98971a;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
